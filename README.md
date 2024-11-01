@@ -1,8 +1,8 @@
-## Module 1 Assignmnet 
+# Module 1 Assignment 
 
 Cleaned raw data with power query
 Created appropriate pivot tables based on bike sales
-Created a dynamic dashboard to better understand the data and trends in the data
+Created a dynamic dashboard to better understand the data and trends in the given dataset
 
 
 # Power BI - Assignment 1
