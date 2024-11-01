@@ -9,7 +9,7 @@ Created a dynamic dashboard to better understand the data and trends in the give
 
 # Power BI - Assignment 1
 
-In the Power BI first assignmnet, basic data cleaning functions were done in all the three tables of the given data set.
+In the Power BI first assignment, basic data cleaning functions were done in all the three tables of the given data set.
 
 ## Basic cleaning operations done on the dataset  are :
 
